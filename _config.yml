@@ -1,8 +1,8 @@
 # Site settings
-title: Grayscale
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Go Make Wow
+email: public+info@gomakewow.com
+url: https://gmkwwwbst.github.io
+description: "Our mission is to make extraordinary software that combines robust code with great design."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -10,20 +10,20 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Your Website
+footer: Copyright 2015 Go Make Wow
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
+    url: https://twitter.com/GoMakeWow
   - title: facebook
     url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: bitbucket
+#    url: http://bitbucket.org/jekyll
+#  - title: github
+#    url: https://github.com/IronSummitMedia/startbootstrap
 
 # Build settings
 markdown: kramdown
