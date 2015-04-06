@@ -10,12 +10,12 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Copyright 2015 Go Make Wow
+footer: Go Make Wow
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/GoMakeWow
+    url: 
   - title: facebook
     url:
 #  - title: stack-overflow
